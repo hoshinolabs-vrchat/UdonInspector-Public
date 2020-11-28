@@ -8,7 +8,7 @@
 カスタマイズを行うことで Udon で実装されたオリジナルのスクリプトの表示などを行うことや外部スクリプトから制御することも可能です。  
 
 ## 利用規約
-本規約は「Uni-Virtual License」で作成しました。  
+本規約は「VN3 License」で作成しました。  
 商品を購入した時点で規約に同意したとみなします。  
   
 https://github.com/hoshinolabs-vrchat/UdonInspector-Public/blob/main/20201127100747vn3license.pdf  
