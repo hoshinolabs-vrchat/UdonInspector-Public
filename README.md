@@ -32,5 +32,8 @@ https://discord.gg/ewDtYMeSuG
 https://github.com/hoshinolabs-vrchat/UdonInspector-Public/issues  
 
 ## 更新履歴
+v1.0a
+ - 項目が縦に長くなるとはみ出てしまう問題を修正
+ - カスタム定義のサンプルを追加
 v1.0
  - 公開
